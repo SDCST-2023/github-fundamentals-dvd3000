@@ -14,4 +14,5 @@ The line of code above will ensure that the program will **never** crash.
 <sub>now that's smart</sub>
 
 **I WILL NOT USE EMOJIS IN MY README FILE**
+
 *I WILL NOT USE EMOJIS IN MY README FILE*
